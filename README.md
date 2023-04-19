@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 ## View My Companies Open Source Projects
 
 <div align="center">
-  <a href="https://github.com/helpliaison?tab=repositories">
+  <a href="https://github.com/Help-Liaison?tab=repositories">
     <img src="https://img.shields.io/badge/Help%20Liaison-blue?style=for-the-badge&" alt="Help Liaison Open Source Projects"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/voxzu?tab=repositories">
+  <a href="https://github.com/Voxzu?tab=repositories">
     <img src="https://img.shields.io/badge/Voxzu-blue?style=for-the-badge&" alt="Voxzu Open Source Projects"/>
   </a>
 </div>
