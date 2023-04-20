@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </div>
 
 ### Hi there 👋
-### I'm a Customer Service Specialist and Technical System Specialist in Ontario, Canada
-### I'm also a CEO!
+### I'm the CEO at <a href="https://github.com/Help-Liaison" target="_blank">@HelpLiaison</a> and <a href="https://github.com/Voxzu" target="_blank">@Voxzu</a>.
+### I'm a Customer Service Specialist and Technical System Specialist located in the Waterloo Region of Ontario, Canada
 
 - 🔭 I’m currently working on developing new solutions for our current and future clients
 - 🌱 I’m currently learning Docker Swarm, and the in's and out's of that.
