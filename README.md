@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </div>
 
 ### Hi there 👋
-### I'm the CEO at <a href="https://github.com/Help-Liaison" target="_blank">@HelpLiaison</a> and <a href="https://github.com/Voxzu" target="_blank">@Voxzu</a>.
 ### I'm a Customer Service Specialist and Technical System Specialist located in the Waterloo Region of Ontario, Canada
 
 - 🔭 I’m currently working on developing new solutions for our current and future clients
@@ -55,18 +54,5 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/j0hnhurl3y?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source%20Projects-blue?style=for-the-badge&" alt="Open Source Projects"/>
-  </a>
-</div>
-
-## View My Companies Open Source Projects
-
-<div align="center">
-  <a href="https://github.com/Help-Liaison?tab=repositories">
-    <img src="https://img.shields.io/badge/Help%20Liaison-blue?style=for-the-badge&" alt="Help Liaison Open Source Projects"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Voxzu?tab=repositories">
-    <img src="https://img.shields.io/badge/Voxzu-blue?style=for-the-badge&" alt="Voxzu Open Source Projects"/>
   </a>
 </div>
